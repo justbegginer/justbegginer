@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=justbegginer&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Justbegginer's GitHub stats](https://github-readme-stats.vercel.app/api?username=justbegginer&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ### Languages and Tools:
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
@@ -7,3 +7,4 @@
 ![SPRING](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![HIBERNATE](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=blue)
 ![POSTGRES](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=justbegginer)](https://git.io/streak-stats)
