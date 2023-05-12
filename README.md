@@ -2,3 +2,4 @@
 ### Languages and Tools:
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java&logoColor=F88C00)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
+![IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
