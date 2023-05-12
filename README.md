@@ -9,4 +9,3 @@
 ![POSTGRES](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=justbegginer&theme=tokyonight)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justbegginer&layout=donut&langs_count=3&hide=html,c#)](https://github.com/anuraghazra/github-readme-stats)
-
