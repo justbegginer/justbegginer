@@ -1,4 +1,5 @@
 [![Justbegginer's GitHub stats](https://github-readme-stats.vercel.app/api?username=justbegginer&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Justbegginer's GitHub stats](https://github-readme-stats.vercel.app/api?username=justbegginer&show_icons=true)
 ### Languages and Tools:
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
